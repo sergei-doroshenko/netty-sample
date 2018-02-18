@@ -1,9 +1,5 @@
-package org.sdoroshenko;
+package io.netty.channel;
 
-import io.netty.channel.AbstractChannelHandlerContext;
-import io.netty.channel.ChannelHandler;
-import io.netty.channel.ChannelHandlerContext;
-import io.netty.channel.DefaultChannelPipeline;
 import io.netty.util.concurrent.EventExecutor;
 
 /**
